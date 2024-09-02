@@ -22,13 +22,13 @@ Requerimientos No Funcionales
 
 # HU-001: Registro de datos del vehículo
 **Descripción**: Como usuario de la aplicación, quiero poder ingresar los datos del vehículo para que el sistema pueda registrar y mostrar esta información.
-**Criterios de Aceptación**:
+# Criterios de Aceptación:
 - Los datos se ingresan correctamente.
 - Se valida y muestra la información adecuadamente.
 
 # HU-002: Manejo de errores en entradas
 **Descripción**: Como usuario, quiero que la aplicación maneje errores si ingreso datos no válidos.
-**Criterios de Aceptación**:
+# Criterios de Aceptación:
 - Mensajes de error claros.
 - Permite corrección de datos.
 - El sistema sigue funcionando después de corregir errores.
